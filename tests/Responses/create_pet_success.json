@@ -1,0 +1,24 @@
+{
+    "success": true,
+    "id": 1,
+    "category": {
+        "id": 0,
+        "name": "category 1"
+    },
+    "name": "pol dek",
+    "photoUrls": [
+        "photo1",
+        "photo2"
+    ],
+    "tags": [
+        {
+            "id": 0,
+            "name": "tag2"
+        },
+        {
+            "id": 0,
+            "name": "tag1"
+        }
+    ],
+    "status": "available"
+}

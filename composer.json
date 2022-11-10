@@ -1,0 +1,28 @@
+{
+    "name": "bebs/petstore",
+    "description": "BEBS Petstore",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Bebs\\Petstore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "martin",
+            "email": "jmcnualan@multisyscorp.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "orchestra/testbench": "^7.11"
+    },
+    "autoload-dev": {
+        "classmap": [
+            "tests/"
+        ]
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}

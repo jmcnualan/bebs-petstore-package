@@ -1,0 +1,14 @@
+PACKAGE DEVELOPMENT
+    - pet store
+    - compatible kahit hindi laravel
+    - compatible sa laravel - service provider
+
+
+1. TDD
+2. 100% Code coverage
+3. Mocked
+
+
+1. lalagyan ng binding sa service provider - DONE
+2. gawa ng Client
+3. i-test yung client
